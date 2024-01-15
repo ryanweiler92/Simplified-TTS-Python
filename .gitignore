@@ -1,0 +1,14 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environment
+tts_env/
+
+# IDEs
+.vscode/
+
+# Test outputs
+test.mp3
